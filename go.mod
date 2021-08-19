@@ -1,4 +1,4 @@
-module github.com/derailed/tview
+module github.com/asafmor/tview
 
 go 1.16
 
